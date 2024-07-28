@@ -7,13 +7,18 @@ Informe interactivo en Power BI
 [Dasboard Transporte Público en España](https://teams.microsoft.com/l/message/48:notes/1722121846338?context=%7B%22contextType%22%3A%22chat%22%7D).
 
 Estructura del proyecto
+
 EDA_TRANSPORTE_PUBLICO_ESPANA/
 
 
 ├── README.md
+
 ├── data
+
 │   ├── Transporte_Publico_Espana_transformado.xlsx
+
 │   └── Transporte_Publico_Espana.csv
+
 ├── notebooks
 │   ├── .env
 │   ├── 01_EDA.ipynb
