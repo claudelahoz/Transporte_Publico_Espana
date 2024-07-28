@@ -12,67 +12,67 @@ Informe interactivo en Power BI
 EDA_TRANSPORTE_PUBLICO_ESPANA/
 
 
-├── README.md
-
-├── data
-
-│   ├── Transporte_Publico_Espana_transformado.xlsx
-
-│   └── Transporte_Publico_Espana.csv
-
-├── notebooks
-
-│   ├── .env
-
-│   ├── 01_EDA.ipynb
-
-│   └── 02_SQL.ipynb
-
-├── reports
-
-│   ├── Boxplot_Duracion_Viaje_Minutos.png
-
-│   ├── Boxplot_Numero_Pasajeros.png
-
-│   ├── Boxplot_Retraso_Minutos.png
-
-│   ├── Boxplot_tipo transporte.png
-
-│   ├── Cantidad_Usuarios_por_Dia_Semana.png
-
-│   ├── Cantidad_Usuarios_por_Region.png
-
-│   ├── Cantidad_Usuarios_por_Ruta.png
-
-│   ├── Cantidad_Usuarios_por_Tipo_Transporte.png
-
-│   ├── distribucion duracion del viaje y retraso por tipo de transporte.png
-
-│   ├── Distribucion_MICE_Duracion_Viaje_Minutos.png
-
-│   ├── Distribucion_MICE_Numero_Pasajeros.png
-
-│   ├── efecto_winsorizado.png
-
-│   ├── histogramas.png
-
-│   ├── Matriz de correlacion.png
-
-│   ├── numero de viajes por dia de la semana.png
-
-│   ├── Pasajeros por hora.png
-
-│   ├── Pasajeros por region.png
-
-│   ├── retraso por dia de semana y tipo de transporte.png
-
-│   ├── Rutas más frecuentes.png
-
-│   └── Winsorizado.png
-
-└── scripts
-
-    └── utils.py
+        ├── README.md
+        
+        ├── data
+        
+        │   ├── Transporte_Publico_Espana_transformado.xlsx
+        
+        │   └── Transporte_Publico_Espana.csv
+        
+        ├── notebooks
+        
+        │   ├── .env
+        
+        │   ├── 01_EDA.ipynb
+        
+        │   └── 02_SQL.ipynb
+        
+        ├── reports
+        
+        │   ├── Boxplot_Duracion_Viaje_Minutos.png
+        
+        │   ├── Boxplot_Numero_Pasajeros.png
+        
+        │   ├── Boxplot_Retraso_Minutos.png
+        
+        │   ├── Boxplot_tipo transporte.png
+        
+        │   ├── Cantidad_Usuarios_por_Dia_Semana.png
+        
+        │   ├── Cantidad_Usuarios_por_Region.png
+        
+        │   ├── Cantidad_Usuarios_por_Ruta.png
+        
+        │   ├── Cantidad_Usuarios_por_Tipo_Transporte.png
+        
+        │   ├── distribucion duracion del viaje y retraso por tipo de transporte.png
+        
+        │   ├── Distribucion_MICE_Duracion_Viaje_Minutos.png
+        
+        │   ├── Distribucion_MICE_Numero_Pasajeros.png
+        
+        │   ├── efecto_winsorizado.png
+        
+        │   ├── histogramas.png
+        
+        │   ├── Matriz de correlacion.png
+        
+        │   ├── numero de viajes por dia de la semana.png
+        
+        │   ├── Pasajeros por hora.png
+        
+        │   ├── Pasajeros por region.png
+        
+        │   ├── retraso por dia de semana y tipo de transporte.png
+        
+        │   ├── Rutas más frecuentes.png
+        
+        │   └── Winsorizado.png
+        
+        └── scripts
+        
+            └── utils.py
     
 ## Descripción general del conjunto de datos
 El conjunto de datos contiene información valiosa que puede ayudar a optimizar las operaciones de transporte público y mejorar la eficiencia. Incluye:
