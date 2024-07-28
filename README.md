@@ -4,21 +4,21 @@ Este proyecto realiza un análisis exhaustivo de los datos de transporte públic
 Informes
 
 Informe interactivo en Power BI
-[Dasboard](https://teams.microsoft.com/l/message/48:notes/1722121846338?context=%7B%22contextType%22%3A%22chat%22%7D).
+[Dasboard Transporte Público en España](https://teams.microsoft.com/l/message/48:notes/1722121846338?context=%7B%22contextType%22%3A%22chat%22%7D).
 
 Estructura del proyecto
-Copiaranalisis-transporte-publico/
-
 EDA_TRANSPORTE_PUBLICO_ESPANA/
+
+
 ├── README.md
-├── data/
+├── data
 │   ├── Transporte_Publico_Espana_transformado.xlsx
 │   └── Transporte_Publico_Espana.csv
-├── notebooks/
+├── notebooks
 │   ├── .env
 │   ├── 01_EDA.ipynb
 │   └── 02_SQL.ipynb
-├── reports/
+├── reports
 │   ├── Boxplot_Duracion_Viaje_Minutos.png
 │   ├── Boxplot_Numero_Pasajeros.png
 │   ├── Boxplot_Retraso_Minutos.png
@@ -39,7 +39,7 @@ EDA_TRANSPORTE_PUBLICO_ESPANA/
 │   ├── retraso por dia de semana y tipo de transporte.png
 │   ├── Rutas más frecuentes.png
 │   └── Winsorizado.png
-└── scripts/
+└── scripts
     └── utils.py
 Descripción general del conjunto de datos
 El conjunto de datos contiene información valiosa que puede ayudar a optimizar las operaciones de transporte público y mejorar la eficiencia. Incluye:
