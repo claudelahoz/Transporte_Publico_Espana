@@ -5,7 +5,7 @@ Informes
 
 Informe interactivo en Power BI
 
-### [Dasboard Transporte Público en España]([https://teams.microsoft.com/l/message/48:notes/1722121846338?context=%7B%22contextType%22%3A%22chat%22%7D](https://app.powerbi.com/groups/me/reports/1b1a0b29-69aa-46d2-8a09-2e81126d0ccd/9bb13731261772b0a928?experience=power-bi)).
+### [Dasboard Transporte Público en España](https://app.powerbi.com/links/DKmfGKumDy?ctid=5fd5460a-b425-49de-9bd0-fcd26270d30c&pbi_source=linkShare).
 
 ## Estructura del proyecto
 
